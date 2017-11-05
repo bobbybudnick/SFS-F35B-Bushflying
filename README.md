@@ -1,3 +1,5 @@
+![](https://github.com/bobbybudnick/SFS-F35B-Bushflying/blob/master/F35B.png)
+
 F-35B for prepar3d with vrs tacpack for prepar3d
 modified for bush flying
 
